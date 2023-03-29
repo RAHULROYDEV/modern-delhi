@@ -70,3 +70,6 @@ outline: #a71c1c;
   text-shadow:2px 2px 2px red;
   word-spacing: 2px ;
 }
+a{
+  text-decoration: none;
+}
