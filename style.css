@@ -53,12 +53,20 @@ li {
 .delhi {
   background-color: lightgray;
   border: 15px solid green;
-  padding: 50px;
+  text-transform: capitalize;
+  
+  padding: auto;
   margin: 10px;
   width: 70px;
-  text-align: center;
+outline: #a71c1c;
 }
 
 .test{
-  
+
+}
+.capital{
+  text-decoration: line-through;
+  text-transform: capitalize;
+  text-shadow:2px 2px 2px red;
+  word-spacing: 2px ;
 }
